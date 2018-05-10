@@ -1,2 +1,4 @@
 # hello-world
-just another respository
+Hi humans!
+sunyy here ,I like java and javascript and sql!
+         
